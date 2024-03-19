@@ -8,8 +8,8 @@ As a first step, you'll have to create and enter a folder with the appropriate n
 To do that, run these commands:
 
 ```bash
-mkdir PixelOS
-cd PixelOS
+mkdir PE
+cd PE
 ```
 
 ### To initialize your local repository, run this command:
