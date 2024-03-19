@@ -15,7 +15,7 @@ cd PixelOS
 ### To initialize your local repository, run this command:
 
 ```bash
-repo init -u https://github.com/PixelOS-AOSP/manifest.git -b fourteen --git-lfs
+repo init -u https://github.com/PixelExperience/manifest -b fourteen
 ```
  
 
