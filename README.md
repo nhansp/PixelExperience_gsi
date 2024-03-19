@@ -1,3 +1,5 @@
+### This is just my lazy fork of MisterZtr's PixelOS GSI. 
+
 ### To get started with building PixelOS GSI,
 you'll need to get familiar with [Git and Repo](https://source.android.com/source/using-repo.html) as well as [How to build a GSI](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F).
 
