@@ -5,11 +5,11 @@ $(call inherit-product, device/phh/treble/base.mk)
 
 $(call inherit-product, device/phh/treble/pixel.mk)
 
-PRODUCT_NAME := treble_arm64_bN
-PRODUCT_DEVICE := tdgsi_arm64_ab
+PRODUCT_NAME := husky
+PRODUCT_DEVICE := husky
 PRODUCT_BRAND := google
 PRODUCT_SYSTEM_BRAND := google
-PRODUCT_MODEL := TrebleDroid
+PRODUCT_MODEL := iPhone 15 Pro Max
 
 # Overwrite the inherited "emulator" characteristics
 PRODUCT_CHARACTERISTICS := device
